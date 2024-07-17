@@ -15,7 +15,7 @@
   .nav-container, .pagination, .toolbar {
     display: none !important;
   }
-  .doc {    
+  .doc {
     max-width: 70rem !important;
   }
 </style>
@@ -23,7 +23,7 @@
 
 == Goals of this lab
 
-The goal of this lab is to
+The goal of this lab is to learn how to securely and automatically scale AI models and apps across clusters - **more detail needed**.
 
 == 1. Run podman desktop
 
