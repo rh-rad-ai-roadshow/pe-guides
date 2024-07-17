@@ -1,9 +1,6 @@
 = {lab_name}
 
 ++++
-<br>
-<h4><i>Red Hat AI Development Roadshow - Platform Engineer Track</i></h4>
-<br>
 <style>
   .nav-container, .pagination, .toolbar {
     display: none !important;
@@ -13,22 +10,23 @@
   }
 </style>
 ++++
+image::parasol_logo.png[Parasol logo,300,float="right",align="center"]
 
-Meet Raj, a platform engineer at Parasol, specializing in streamlining AI workflows. In his latest assignment, he's tasked with enhancing the productivity of his team and is evaluating Red Hat’s internal developer portal and tooling. By doing so, he aims to reduce the cognitive load for AI workloads, enabling faster development cycles and more efficient collaboration among team members.
+This workshop is centered around use cases in the insurance industry.
 
-Raj is also responsible for constructing software templates that effectively integrate IT policies and incorporate both off-the-shelf and custom AI models. This will allow his organization to maintain a consistent approach while ensuring compliance with security standards and fostering innovation through reusable components.
+**Parasol Insurance** is a fictional company specializing in providing comprehensive insurance solutions for various sectors. The company's goal is to help customers navigate complex financial landscapes by offering tailored insurance products and services. Recently, the company hired a new CIO and CTO, and they are pushing Parasol to modernize their business using AI technology, introducing new products, and adding features to existing products to address new market opportunities and remain competitive. The company is just getting started understanding how AI can help them and are evaluating Red Hat for their primary AI solution based on their longstanding trust and use of Red Hat's platforms including RHEL and OpenShift. Parasol's technical staff of app developers and platform engineers are beginning their own AI journey to understand how each of them can play a role in modernizing Parasol's business and trying to understand which new roles may be needed.
 
-Additionally, Raj’s responsibilities include managing pipelines for automating the entire process of building, securing (signing/attestation), and deploying AI models and applications to production platforms. This not only saves the developer’s time but also ensures a more consistent deployment process with improved security features. Furthermore, he needs to observe and optimize the performance of custom AI models in production, as well as securely and automatically scale AI models and apps across clusters to meet the demands of the business.
+== Red Hat Products and Technologies
 
+In this workshop, you'll gain hands-on experience with several cutting-edge Red Hat products and technologies that together form the basis of Red Hat's Hybrid Cloud AI solution. Depending on your role at your company, you will be more interested in certain subsets. For this Platform Engineer track, we'll focus on Red Hat's Developer Hub, Developer Services, Trusted Software Supply Chain, and Red Hat OpenShift AI. Other aspects of this workshop focus on different roles and different products, which you may also be interested in!
 
+image::platform-eng-flow.png[Red Hat Products]
 
 == Get started
 
-Modules are provisioned on demand by you by using the *Workshop Deployer*.
-
 Your access details to the lab:
 
-* Access *Workshop Deployer* by  https://workshop-deployer.{openshift_subdomain}[clicking here^, window="workshopdeployer"]
+* Access the lab instructions by https://something.something.{openshift_subdomain}[clicking here^, window="workshopdeployer"]
 * Username: *{user_name}*
 * Password: *{user_password}*
 

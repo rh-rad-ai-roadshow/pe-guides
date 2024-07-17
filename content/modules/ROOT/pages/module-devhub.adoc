@@ -15,7 +15,7 @@
   .nav-container, .pagination, .toolbar {
     display: none !important;
   }
-  .doc {    
+  .doc {
     max-width: 70rem !important;
   }
 </style>
@@ -23,7 +23,7 @@
 
 == Goals of this lab
 
-The goal of this lab is to
+In this exercise, as a Platform Engineer and will learn how to leverage Red Hat's internal developer portal and tooling to enhance team productivity and reduce developer cognitive load for AI workloads. This exercise will guide you through creating compelling and useful software templates that your developers can use which encapsulates IT policies and incorporates both off-the-shelf and custom AI models. You will start by creating a new AI model template using a sample application. Next, you'll use OpenShift AI to install and configure the LLM, such as IBM Granite, referenced by the template. Following this, you will deploy the sample application using the AI model template in Developer Hub Hub and verify its functionality after the CI/CD process completes. Additionally, you have the option to add a policy exception temporarily in Dev Hub to waive a potential vulnerability in the AI app. This hands-on exercise aims to equip you with the skills to streamline AI workflows, ensuring compliance while fostering innovation through reusable components.
 
 == 1. Run podman desktop
 

@@ -1,4 +1,4 @@
-= Enhance trust using trusted pipelines to deliver AI apps 
+= Enhance trust using trusted pipelines to deliver AI apps
 :imagesdir: ../assets/images
 
 ++++
@@ -15,7 +15,7 @@
   .nav-container, .pagination, .toolbar {
     display: none !important;
   }
-  .doc {    
+  .doc {
     max-width: 70rem !important;
   }
 </style>
@@ -23,7 +23,7 @@
 
 == Goals of this lab
 
-The goal of this lab is to
+In this exercise, as a platform engineer at Parasol, you will delve into the critical aspects of automating the building, securing (signing/attestation), and deploying AI models and applications to a production AI platform. This exercise highlights the importance of maintaining a trusted software supply chain to ensure the security and integrity of your AI models and applications. You will start by receiving a notification about a potential vulnerability in one of the AI model software templates in the Dev Hub. After reviewing the details, you will request the development team to fix the code for the Parasol app and update the software template to include a new task for Model Transparency (Model Signing) in the RHTAP pipeline. You will then create a new pull request to update the software template, merge it, and roll out the updated template to the development team. Finally, you will verify the new application on a signed LLM, ensuring that your AI models are securely built and deployed. This hands-on exercise aims to enhance your ability to manage secure and efficient AI workflows, ensuring robust and trusted deployments.
 
 == 1. Run podman desktop
 

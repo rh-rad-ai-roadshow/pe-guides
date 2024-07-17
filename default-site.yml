@@ -1,7 +1,7 @@
 ---
 site:
   title: Red Hat AI Development Roadshow - Platform Engineer Track
-  url: https://github.com/rh-rad-ai-roadshow/dev-guides
+  url: https://github.com/rh-rad-ai-roadshow/pe-guides
   start_page: modules::index.adoc
 
 content:
