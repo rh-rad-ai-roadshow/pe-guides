@@ -1,5 +1,6 @@
 = Scaling models
 :imagesdir: ../assets/images
+:sectnums:
 
 ++++
 <!-- Google tag (gtag.js) -->
@@ -17,24 +18,21 @@
 
 The goal of this lab is to learn how to securely and automatically scale AI models and apps across clusters - **more detail needed**.
 
-== 1. Run podman desktop
+== Run podman desktop
 
 Introduction to gen AI + discover and experiment with gen AI models and AI applications on the local desktop, in an inner loop
 
-image::scaling/redhat-openshift-ai.png[]
+== TBD
 
+=== TBD
 
-== 1.1. TBD
+== Start a playground, chat with it
 
-=== 1.1.1. TBD
+== Kill playground, try text summarization recipe, upload claim PDF, view summarization
 
-== 2. Start a playground, chat with it
+== Open summarization app (python) in vscode, inspect code (briefly)
 
-== 3. Kill playground, try text summarization recipe, upload claim PDF, view summarization
-
-== 4. Open summarization app (python) in vscode, inspect code (briefly)
-
-== 5. Change the prompt, restart, and observe changes.
+== Change the prompt, restart, and observe changes.
 
 == Conclusion
 
